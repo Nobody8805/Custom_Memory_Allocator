@@ -1,4 +1,4 @@
-#include "include/allocator.h"
+#include "allocator.h"
 
 #define ALLOCSIZE 10000
 
